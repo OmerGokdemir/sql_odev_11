@@ -60,7 +60,7 @@ SQL 11. Ödevi
     );
 ```
 
-### Kesişen öğeler için tekrar eden veriler için ayrıca *ALL* kullanma sonucu değiştirmeyecektir.
+#### Kesişen öğeler için tekrar eden veriler için ayrıca *ALL* kullanma sonucu değiştirmeyecektir.
 
 ```SQL
     (
@@ -74,7 +74,7 @@ SQL 11. Ödevi
     );
 ```
 
-### Birinci tabloda olan, ikinci tabloda olmayan, tekrar eden veriler için:
+#### Birinci tabloda olan, ikinci tabloda olmayan, tekrar eden veriler için:
 
 ```SQL
     (
